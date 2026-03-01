@@ -1,0 +1,1 @@
+jdbc:mysql://10.13.101.110:3306/charge_db_release?useSSL=false&allowPublicKeyRetrieval=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai
